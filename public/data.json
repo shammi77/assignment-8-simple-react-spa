@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name":"Yamaha YZF R15 V3",
+        "price": 500000,
+        "img":"https://i.ibb.co/PtLDzbZ/download-1.jpg"
+    },
+    {
+        "id":2,
+        "name":"TVS Apache RTR 160 4V",
+        "price": 400000,
+        "img":"https://i.ibb.co/GtJqwDk/download-2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Royal Enfield Classic 350",
+        "price": 250000,
+        "img":"https://i.ibb.co/TvXmccH/download.jpg"
+    },
+    {
+        "id":4,
+        "name":"Hero Splendor Plus",
+        "price":150000,
+        "img":"https://i.ibb.co/RPcPdXT/images-1.jpg"
+    },
+    {
+        "id":5,
+        "name":"Honda SP 125",
+        "price": 300000,
+        "img":"https://i.ibb.co/fpkZtWX/images-2.jpg"
+    },
+    {
+        "id":6,
+        "name":"TVS Raider 125",
+        "price": 270000,
+        "img":"https://i.ibb.co/PtLDzbZ/download-1.jpg"
+    },
+    {
+        "id":7,
+        "name":"Yezdi Roadster",
+        "price": 600000,
+        "img":"https://i.ibb.co/DDp0rvK/images-3.jpg"
+    },
+    {
+        "id":8,
+        "name":"Royal Enfield Classic 350",
+        "price": 700000,
+        "img":"https://i.ibb.co/gjVbxrd/images-4.jpg"
+    },
+
+{
+    "id":9,
+    "name":"KTM Duke 200",
+    "price": 80000,
+    "img":"https://i.ibb.co/3SCmKY1/images-5.jpg"
+}
+]
