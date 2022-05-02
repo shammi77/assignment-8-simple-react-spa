@@ -1,18 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-
-import { Card } from 'react-bootstrap';
 import Bikes from './component/Bikes/Bikes';
 
 function App() {
-
-
   return (
     <div>
       <h1 className="text-warning text-center w-100">Bike Store</h1>
   <Bikes></Bikes>
-
-  <footer>
+  <footer className='container mt-5'>
         <h2>Question and answer</h2>
         <h3>1.Difference between props and state</h3>
         <h5>ans: <br />
