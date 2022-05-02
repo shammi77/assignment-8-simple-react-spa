@@ -1,5 +1,6 @@
 import React from 'react';
 import { Button, Card } from 'react-bootstrap';
+import {BsFillCartDashFill} from 'react-icons/bs'
 
 const Bike = (props) => {
     const {name,price,img}=props.bike;
@@ -11,7 +12,7 @@ const Bike = (props) => {
         <Card.Title> Name: {name}</Card.Title>
         <Card.Text>Price : {price}</Card.Text>
         
-        <Button variant="primary"> choose  </Button>
+        <Button variant="primary"> choose <BsFillCartDashFill/> </Button>
       </Card.Body>
       
       </div>

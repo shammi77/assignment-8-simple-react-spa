@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <h1 className="text-warning text-center w-50">Bike Store</h1>
+      <h1 className="text-warning text-center w-100">Bike Store</h1>
   <Bikes></Bikes>
     </div>
   );
